@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "99014032b54df57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd23aaacafda197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24a4afff8a52415",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "计算机网络/网络层.canvas",
+                "viewState": {
+                  "x": 1322.3508751613601,
+                  "y": 10141.324838971697,
+                  "zoom": -1.4074074711819264
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "网络层"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f85d0f749241b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "786f3d12784fb470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987635f3e76cdadc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "06d039a6c342fcb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "45b3fcaafd338690",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.50694274902344
+  },
+  "right": {
+    "id": "f5854ffd61213796",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8a4aeac2035eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f4602187089b23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-12-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-27 的反向链接列表"
+            }
+          },
+          {
+            "id": "1b7fa83c2a809fb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-12-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024-12-27 的出链列表"
+            }
+          },
+          {
+            "id": "ed34754ca516cea0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a57ebf24b89db81c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机网络/数据链路层.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "数据链路层 的大纲"
+            }
+          },
+          {
+            "id": "fccdedc680aefc42",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4a86b562296660ff",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "b24a4afff8a52415",
+  "lastOpenFiles": [
+    "bd800a39c4d8413a3e7f3ff4b355f8ec.png",
+    "18dd9417a732c6da7cfc661bf5132e7d.png",
+    "2e6a1c9effbf3a79c65a6864fba00e60.png",
+    "c858be7a7a8ef3f2a9e1a1e8995e48cf.png",
+    "0d12f8296374c2b63cbb9edf77ce97a0.png",
+    "计算机网络/计网思维导图.canvas",
+    "项目/选题列表.md",
+    "项目/服创.md",
+    "项目/项目资源查询.md",
+    "计算机网络/文件找回.canvas",
+    "编译原理/编译原理.canvas",
+    "计算机网络/网络层.canvas",
+    "026634F0.png",
+    "a1bd05ce-a67e-4d3a-bf57-153871bd33c7.png",
+    "638962da-3149-4a6b-8997-7632d7f955e8.png",
+    "872308c5588d13dfbb1cdddeffe6ebeb.png",
+    "计算机网络/数据链路层.canvas",
+    "计算机网络/应用层.canvas",
+    "Pasted image 20250125171852.png",
+    "Pasted image 20250125170852.png",
+    "计算机网络/传输层.canvas",
+    "计算机网络/物理层.canvas",
+    "计算机网络/计算机网络.md",
+    "计算机网络/概述.canvas",
+    "Computer-Networks-Notes/数据链路层.canvas",
+    "Computer-Networks-Notes/计算机网络.md",
+    "Computer-Networks-Notes/README.md",
+    "Computer-Networks-Notes/图片",
+    "图片",
+    "计算机网络/图片",
+    "2025-01-21.md",
+    "欢迎.md",
+    "未命名.md",
+    "项目",
+    "数学",
+    "编译原理",
+    "计算机网络",
+    "2025-01-11.md",
+    "计算机体系结构",
+    "离散数学.md",
+    "未命名 1",
+    "2024-12-28.md",
+    "2024-12-27.md",
+    "创建链接.md"
+  ]
+}
